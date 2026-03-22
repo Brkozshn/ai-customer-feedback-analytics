@@ -1,4 +1,3 @@
-# AI Customer Feedback Analytics Automation
 
 ## Overview
 
@@ -141,7 +140,7 @@ A bar chart showing the distribution of sentiment across all feedback entries.
 
 ## Sentiment Distribution Chart
 
-![Sentiment Chart](sentiment_distribution.png)
+<img width="600" height="400" alt="sentiment_distribution" src="https://github.com/user-attachments/assets/f6388f99-2fd5-462f-9de9-c92df74d1591" />
 
 ---
 
